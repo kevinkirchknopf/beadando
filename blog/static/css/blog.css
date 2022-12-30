@@ -1,0 +1,44 @@
+body{
+    background-color: coral;
+
+}
+.main{
+    
+    background-color: cornsilk;
+    width: 1020px;
+    height: 100vh;
+    border: 1px solid;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 20px;
+
+}
+.head{
+    
+    
+    height: 70px;
+    border-bottom: 1px solid;
+    border: 20px;
+    
+}
+.logo{
+    
+    font-size: 60px;
+    float: left;
+}
+.user{
+    
+    float: right;
+    font-size: 30px;
+    padding-right: 20px;
+    padding-top: 20px;
+    
+}
+
+
+a:visited,
+a:link {
+    text-decoration: none;
+    color: black
+  }
+
